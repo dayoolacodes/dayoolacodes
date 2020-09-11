@@ -1,5 +1,5 @@
 ### Hello 👋
-### You have reached dayoola's Planet 🪐. 
+### You have reached Dayoola's Planet 🪐. 
 <!--
 **dayoolacodes/dayoolacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
