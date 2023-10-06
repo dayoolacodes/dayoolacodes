@@ -14,7 +14,7 @@ On my GitHub, you'll find a diverse collection of projects that showcase my skil
 
 Here are a few projects I'm particularly proud of:
 
-- [TCM - Health Booking App](https://tcm-online.netlify.app/login): A notable project that demonstrates my proficiency in creating responsive and interactive web applications. use this email: eve.holt@reqres.in Password: <anything> to check it out
+- [TCM - Health Booking App](https://tcm-online.netlify.app/login): A notable project that demonstrates my proficiency in creating responsive and interactive web applications. use this email: eve.holt@reqres.in Password: (anything) to check it out
 - [Schooliply](https://schooliply.com): Another project highlighting my experience with ReactJS.
 <!-- [Project Name]: An open-source contribution I've made, reflecting my commitment to the developer community.-->
 
