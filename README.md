@@ -4,7 +4,7 @@ I'm a seasoned Front-End Engineer and Software Engineer with a passion for craft
 
 ### 💼 What I Do
 
-I'm a Front-End Engineer (React) specializing in JavaScript and TypeScript and anything it takes to get the job done 😉. I have extensive experience with modern web development technologies and frameworks. My career journey has taken me from building scalable applications to leading teams and driving innovative solutions.
+I'm a Front-End Engineer specializing in JavaScript and TypeScript and anything it takes to get the job done 😉. I have extensive experience with modern web development technologies and frameworks. My career journey has taken me from building scalable applications to leading teams and driving innovative solutions.
 
 ### 🚀 What You'll Find Here
 
