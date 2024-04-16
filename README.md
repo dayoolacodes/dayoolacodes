@@ -16,6 +16,7 @@ Here are a few projects I'm particularly proud of:
 
 - [TCM - Health Booking App](https://tcm-online.netlify.app/login): A notable project that demonstrates my proficiency in creating responsive and interactive web applications. use this email: eve.holt@reqres.in Password: (anything) to check it out
 - [Schooliply](https://schooliply.com): Another project highlighting my experience with ReactJS.
+- [Denty Tech](https://denty-tech.vercel.app/): A desktop dental app for an organisation. Inspiration from [Bogdan falin design](https://dribbble.com/shots/22620941-Dental-Care-Landing-Page).
 <!-- [Project Name]: An open-source contribution I've made, reflecting my commitment to the developer community.-->
 
 ### 🌐 Connect With Me
