@@ -24,14 +24,10 @@ Here are a few projects I'm particularly proud of:
 I'm always eager to connect with fellow developers and tech enthusiasts. You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/oladayolayoola)
-- [Twitter](https://twitter.com/dayoola__)
 <!-- [Personal Website/Blog](https://www.your-website.com)-->
 
-### 📚 Learning Never Stops
 
-I firmly believe in continuous learning. Currently, I'm broadening my scope with data structures and algorithm with [Udemy](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/?couponCode=ST3MT72524) from Zero to Mastery. Likewise, I'm deepening my knowledge of Computing with [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) from Havard. You might discover repositories related to these here 😊.
-
-### 🌈 Let's Collaborate!
+### Let's Collaborate!
 
 I'm passionate about collaborating on exciting projects and contributing to the open-source ecosystem. If you have a compelling idea or want to work together, please don't hesitate to reach out. Let's embark on a coding adventure together!
 
