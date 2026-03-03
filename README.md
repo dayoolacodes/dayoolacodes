@@ -1,17 +1,19 @@
 ## Dayo Ayoola
+Frontend Engineer | Building production APIs and developer tools
 
-Software Engineer building products across fintech, AI, and B2B SaaS.
+Currently shipping [SniffMail](https://sniffmail.io) — an email verification API for developers.
 
-I work primarily with TypeScript, React, Node.js, and cloud infrastructure (AWS, GCP). 
+**Tech:** TypeScript, React, Next.js, FastAPI, Node.js | AWS, GCP, Docker
+**Focus:** Developer tools, fintech infrastructure, B2B SaaS
 
-My focus is on building scalable, production-grade applications that solve real business problems.
+### Selected Work
+- **[SniffMail](https://sniffmail.io)** — Email verification API with npm package integration
+- **[CompareRates.ng](https://comparerates.ng)** — Remittance rate comparison for Nigerian diaspora
+- **[Schooliply](https://schooliply.com)** — Education platform for Canadian international students
+- **[Denty Tech](https://denty-tech.vercel.app/)** — Dental practice management system
+- **[TCM](https://tcm-online.netlify.app/login)** — Healthcare appointment booking platform
 
-### Selected Projects
-
-- **[Schooliply](https://schooliply.com)** — Education platform built with React
-- **[Denty Tech](https://denty-tech.vercel.app/)** — Desktop dental management application
-- **[TCM](https://tcm-online.netlify.app/login)** — Health booking platform
+Previously: Senior Frontend Engineer at GTBank (Squad payments) | Ucraft | Four Agency
 
 ### Connect
-
-- [LinkedIn](https://www.linkedin.com/in/oladayolayoola)
+[LinkedIn](https://www.linkedin.com/in/oladayolayoola) | [Email](mailto:theoladayoayoola@gmail.com)
