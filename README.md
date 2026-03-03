@@ -16,4 +16,4 @@ Currently shipping [SniffMail](https://sniffmail.io) — an email verification A
 Previously: Senior Frontend Engineer at GTBank (Squad payments) | Ucraft | Four Agency
 
 ### Connect
-[LinkedIn](https://www.linkedin.com/in/oladayolayoola) | [Email](mailto:theoladayoayoola@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/oladayolayoola) 
